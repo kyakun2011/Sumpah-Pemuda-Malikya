@@ -1,0 +1,21 @@
+.hero {
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.container{
+  color: black;
+}
+
+.content {
+  padding: 50px 0;
+}
+
+img {
+  margin-bottom: 15px;
+}
